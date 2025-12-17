@@ -1,5 +1,9 @@
 function Home() {
-    return <h1>Mãe, te amo. Vou me dedicar mais.</h1>
+  return <h1>Mãe, te amo. Vou me dedicar mais.</h1>;
 }
 
-export default Home
+function teste() {
+  console.log("identaçÃo teste de erro");
+}
+
+export default Home;
